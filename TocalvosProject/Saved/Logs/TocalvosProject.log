@@ -1156,3 +1156,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-14.21.29:149][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
 [2021.09.10-14.24.37:697][520]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../Users/Paxim/Tocalvo joc/TocalvosProject/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
 [2021.09.10-14.24.38:291][521]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.09.10-14.25.39:214][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.09.10-14.25.40:570][570]Cmd: DELETE
+[2021.09.10-14.25.40:570][570]Cmd: ACTOR DELETE
+[2021.09.10-14.25.40:576][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.25.40:590][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.10-14.25.40:593][570]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.09.10-14.25.42:016][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2021.09.10-14.25.43:593][799]Cmd: DELETE
+[2021.09.10-14.25.43:593][799]Cmd: ACTOR DELETE
+[2021.09.10-14.25.43:599][799]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.25.43:611][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.10-14.25.43:613][799]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.10-14.25.46:662][ 81]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.46:662][ 81]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.25.46:949][ 85]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.46:949][ 85]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.47:647][122]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.47:647][122]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.25.50:548][283]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.50:548][283]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.52:931][419]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.52:932][419]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.53:564][453]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.53:564][453]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.53:949][473]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.53:949][473]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.54:240][487]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.54:240][487]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.54:552][503]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.54:552][503]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.54:820][516]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.54:820][516]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.55:089][528]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.55:089][528]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.55:330][539]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.55:331][539]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.25.55:568][550]Cmd: TRANSACTION UNDO
+[2021.09.10-14.25.55:568][550]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.26.00:499][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.09.10-14.26.06:503][817]Cmd: TRANSACTION UNDO
+[2021.09.10-14.26.06:503][817]LogEditorTransaction: Undo Pinchar en los actores
