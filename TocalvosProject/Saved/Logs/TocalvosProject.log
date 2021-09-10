@@ -939,3 +939,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-14.36.23:788][187]LogFileHelpers: Saving map 'Calvo' took 0.023
 [2021.09.10-14.36.23:829][187]AssetCheck: New page: Asset Save: Calvo
 [2021.09.10-14.36.23:829][187]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Calvo.Calvo
+[2021.09.10-14.38.33:156][ 83]LogAssetRegistry: Display: Multiple files exist with the same package name /Game/ThirdPersonBP/Maps/Calvo but different extensions (umap and uasset). This is invalid and will cause errors; merge or rename or delete one of the files.
