@@ -1031,3 +1031,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-14.04.38:278][ 60]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
 [2021.09.10-14.04.38:278][ 60]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
 [2021.09.10-14.05.46:394][543]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.09.10-14.16.34:431][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.09.10-14.16.34:475][885]LogSavePackage: Moving '../../../../../Users/Paxim/Tocalvo joc/TocalvosProject/Saved/ThirdPersonExampleMap8A9CD74B4503A2574BE0EBA641842F42.tmp' to '../../../../../Users/Paxim/Tocalvo joc/TocalvosProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.10-14.16.34:682][885]LogSavePackage: Moving '../../../../../Users/Paxim/Tocalvo joc/TocalvosProject/Saved/ThirdPersonExampleMap_BuiltData7BF9A37E449BCDF35898DE93E3A18D7A.tmp' to '../../../../../Users/Paxim/Tocalvo joc/TocalvosProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.10-14.16.34:717][885]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.10-14.16.34:717][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.10-14.16.34:717][885]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
