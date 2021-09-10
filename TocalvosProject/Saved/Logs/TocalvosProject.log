@@ -947,3 +947,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-14.50.41:984][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
 [2021.09.10-14.50.51:469][910]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
 [2021.09.10-14.51.07:166][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.09.10-14.53.03:926][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.09.10-14.53.11:132][875]LogSlate: Window 'Guardar contenido' being destroyed
+[2021.09.10-14.53.16:741][176]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
