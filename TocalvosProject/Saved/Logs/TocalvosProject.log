@@ -1037,3 +1037,120 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-14.16.34:717][885]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.10-14.16.34:717][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.09.10-14.16.34:717][885]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.10-14.20.38:929][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2021.09.10-14.20.42:027][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.09.10-14.20.43:041][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2021.09.10-14.20.43:844][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2021.09.10-14.20.44:419][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2021.09.10-14.20.45:021][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2021.09.10-14.20.46:148][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2021.09.10-14.20.47:833][963]Cmd: DELETE
+[2021.09.10-14.20.47:833][963]Cmd: ACTOR DELETE
+[2021.09.10-14.20.47:837][963]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.47:849][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.09.10-14.20.47:852][963]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.10-14.20.48:350][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2021.09.10-14.20.48:801][ 28]Cmd: DELETE
+[2021.09.10-14.20.48:801][ 28]Cmd: ACTOR DELETE
+[2021.09.10-14.20.48:804][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.48:819][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.10-14.20.48:820][ 28]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.10-14.20.49:200][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2021.09.10-14.20.49:535][ 79]Cmd: DELETE
+[2021.09.10-14.20.49:535][ 79]Cmd: ACTOR DELETE
+[2021.09.10-14.20.49:538][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.49:558][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.10-14.20.49:560][ 79]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.09.10-14.20.49:871][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2021.09.10-14.20.50:229][127]Cmd: DELETE
+[2021.09.10-14.20.50:229][127]Cmd: ACTOR DELETE
+[2021.09.10-14.20.50:232][127]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.50:245][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.10-14.20.50:247][127]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.10-14.20.50:651][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2021.09.10-14.20.50:807][170]Cmd: DELETE
+[2021.09.10-14.20.50:807][170]Cmd: ACTOR DELETE
+[2021.09.10-14.20.50:810][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.50:824][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.09.10-14.20.50:825][170]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.10-14.20.51:345][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.10-14.20.52:188][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2021.09.10-14.20.53:133][320]Cmd: DELETE
+[2021.09.10-14.20.53:133][320]Cmd: ACTOR DELETE
+[2021.09.10-14.20.53:137][320]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.53:153][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.09.10-14.20.53:155][320]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.09.10-14.20.54:274][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2021.09.10-14.20.55:238][490]Cmd: DELETE
+[2021.09.10-14.20.55:238][490]Cmd: ACTOR DELETE
+[2021.09.10-14.20.55:240][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.55:254][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.09.10-14.20.55:256][490]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.10-14.20.55:842][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2021.09.10-14.20.56:317][578]Cmd: DELETE
+[2021.09.10-14.20.56:317][578]Cmd: ACTOR DELETE
+[2021.09.10-14.20.56:320][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.56:333][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.10-14.20.56:334][578]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.10-14.20.57:882][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2021.09.10-14.20.58:293][742]Cmd: DELETE
+[2021.09.10-14.20.58:293][742]Cmd: ACTOR DELETE
+[2021.09.10-14.20.58:296][742]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.58:308][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.10-14.20.58:311][742]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.09.10-14.20.58:726][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.09.10-14.20.59:088][797]Cmd: DELETE
+[2021.09.10-14.20.59:088][797]Cmd: ACTOR DELETE
+[2021.09.10-14.20.59:091][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.10-14.20.59:103][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.10-14.20.59:105][797]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.10-14.21.03:707][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2021.09.10-14.21.04:441][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.10-14.21.05:846][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.10-14.21.09:136][597]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.09:136][597]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.09:389][601]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.09:389][601]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.09:570][605]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.09:570][605]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.09:786][610]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.09:787][610]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.10:011][623]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.10:011][623]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.10:274][633]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.10:275][633]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.10:522][649]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.10:522][649]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.10:953][670]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.10:953][670]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.11:404][700]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.11:404][700]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.11:857][720]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.11:857][720]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.12:271][745]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.12:271][745]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.12:508][753]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.12:508][753]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.12:706][760]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.12:706][760]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.12:920][774]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.12:920][774]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.13:156][782]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.13:157][782]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.13:397][797]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.13:397][797]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.13:619][804]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.13:619][804]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.13:840][818]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.13:840][818]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.14:106][829]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.14:107][829]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.14:339][844]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.14:339][844]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.14:753][863]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.14:753][863]LogEditorTransaction: Undo Pinchar en los actores
+[2021.09.10-14.21.15:394][906]Cmd: TRANSACTION UNDO
+[2021.09.10-14.21.15:394][906]LogEditorTransaction: Undo Eliminar actores
+[2021.09.10-14.21.16:615][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.10-14.21.27:929][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.10-14.21.29:149][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
