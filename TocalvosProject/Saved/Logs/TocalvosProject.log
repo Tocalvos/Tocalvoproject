@@ -943,3 +943,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-14.36.22:862][135]LogSavePackage: Moving '../../../../Tocalvos/TocalvosProject/Saved/Calvo5869578F4CB5D9AC8BA243B293F2FB4F.tmp' to '../../../../Tocalvos/TocalvosProject/Content/ThirdPersonBP/Maps/Calvo.uasset'
 [2021.09.10-14.36.22:881][135]AssetCheck: New page: Asset Save: Calvo
 [2021.09.10-14.36.22:881][135]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Maps/Calvo.Calvo
+[2021.09.10-14.37.29:038][417]LogAssetRegistry: Display: Multiple files exist with the same package name /Game/ThirdPersonBP/Maps/Calvo but different extensions (uasset and umap). This is invalid and will cause errors; merge or rename or delete one of the files.
