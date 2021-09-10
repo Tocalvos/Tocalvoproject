@@ -956,3 +956,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.10-13.53.33:422][463]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.09.10-13.53.33:423][463]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.09.10-14.04.26:961][992]LogSlate: Took 0.009828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.10-14.20.20:902][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
